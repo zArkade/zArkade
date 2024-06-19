@@ -1,3 +1,12 @@
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zArkade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=zArkade&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zArkade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
@@ -52,7 +61,7 @@ Pratico diariamente a analise de dados em **PowerBi**, **Python** e **R**. Para 
 
 Como analista de TI auxilio em ambito profissional gestão de usuários, no sistema interno, acesso a ferramentas microsoft, suporte remoto/presencial.
 ##
-### 👨🏾‍🎓 **FOrmação Acadêmica**
+### 👨🏾‍🎓 **Formação Acadêmica**
 
 - **Engenharia de Computação** - Universidade São Judas Tadeu - Concluído em Jul/2024.
 
@@ -105,12 +114,8 @@ I am always open to new opportunities, collaborations, and learning.
 
 ---
 
-<br clear="both">
+    <br clear="both>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zArkade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=zArkade&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zArkade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+    <img src="https://raw.githubusercontent.com/zArkade/zArkade/output/snake.svg" alt="Snake animation" />
 
 ---
