@@ -114,8 +114,8 @@ I am always open to new opportunities, collaborations, and learning.
 
 ---
 
-    <br clear="both>
+<br clear="both>
 
-    <img src="https://raw.githubusercontent.com/zArkade/zArkade/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zArkade/zArkade/output/snake.svg" alt="Snake animation" />
 
 ---
