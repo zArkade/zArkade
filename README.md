@@ -16,7 +16,7 @@
 ---
 
 <div align="right">
-  <img align="right" alt="" height="190px" src="./src/Solo_leveling.gif">
+  <img align="right" alt="" height="180px" src="./src/Solo_leveling.gif">
 </div>
 
 ### ✉️ **Contact**
