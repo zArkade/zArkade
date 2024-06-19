@@ -8,6 +8,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zArkade&show_icons=true&theme=radical)
+
+---
+
 <div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img width="12" />
@@ -114,8 +118,8 @@ I am always open to new opportunities, collaborations, and learning.
 
 ---
 
-<br clear="both>
+<br clear="both">
 
-<img src="https://raw.githubusercontent.com/zArkade/zArkade/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zArkade/MarcosGoncalves/output/snake.svg" alt="Snake animation" />
 
 ---
