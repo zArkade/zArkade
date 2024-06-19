@@ -7,7 +7,7 @@
 
 ---
   
-![snake gif](https://github.com/zArkade/zArkade/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/zArkade/MarcosGoncalves/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
