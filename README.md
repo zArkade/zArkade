@@ -1,3 +1,4 @@
+
 <div style="display: inline-block"><br>
   <a href="https://github.com/zArkade" />
   <img src="https://img.shields.io/badge/ubunto-log">
@@ -18,7 +19,8 @@
 
 ![codewars](https://www.codewars.com/users/zArkade/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FzArkade&logo=leetcode&logoColor=yellow)
 
-##
+---
+
 ### 🇧🇷
 ### 🚀 **Bem-vindo!**
 
@@ -30,7 +32,7 @@ Meu nome é Marcos Gonçalves, tenho 24 anos e este é meu perfil GitHub! Atuand
 - **R**;
 - **Dax**;
 - **Java**;
-
+##
 ### 💻 **Prática diária**
 
 Pratico diariamente a analise de dados em **PowerBi**, **Python** e **R**. Para praticar, meu estudos consistem em assistir aulas em algumas plataformas de ensino, como:
@@ -41,13 +43,13 @@ Pratico diariamente a analise de dados em **PowerBi**, **Python** e **R**. Para 
 - **Youtube**;
 
 Como analista de TI auxilio em ambito profissional gestão de usuários, no sistema interno, acesso a ferramentas microsoft, suporte remoto/presencial.
-
+##
 ### 👨🏾‍🎓 **FOrmação Acadêmica**
 
 - **Engenharia de Computação** - Universidade São Judas Tadeu - Concluído em Jul/2024.
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizagem.
-
+##
 ### **Contato**
 
 <div>
@@ -55,7 +57,7 @@ Estou sempre aberto a novas oportunidades, colaborações e aprendizagem.
 <a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
-##
+---
 
 ### 🇺🇸
 ### 🚀 **Welcome!**
@@ -68,7 +70,7 @@ My name is Marcos Gonçalves, I am 24 years old, and this is my GitHub profile! 
 - **R**;
 - **Dax**;
 - **Java**;
-
+##
 ### 💻 **Daily Practice**
 
 I practice data analysis daily using **PowerBi**, **Python**, and **R**. To practice, my studies consist of watching classes on several learning platforms, such as:
@@ -79,13 +81,13 @@ I practice data analysis daily using **PowerBi**, **Python**, and **R**. To prac
 - **YouTube**;
 
 As an IT analyst, I assist in a professional setting with user management, internal systems, access to Microsoft tools, and remote/on-site support.
-
+##
 ### 👨🏾‍🎓 **Academic Background**
 
 - **Computer Engineering** - São Judas Tadeu University - Completed in Jul/2024.
 
 I am always open to new opportunities, collaborations, and learning.
-
+##
 ### **Contact**
 
 <div>
@@ -93,6 +95,6 @@ I am always open to new opportunities, collaborations, and learning.
 <a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
-##
+---
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=zArkade&layout=compact)
