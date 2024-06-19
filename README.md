@@ -18,7 +18,8 @@
 
 ![codewars](https://www.codewars.com/users/zArkade/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FzArkade&logo=leetcode&logoColor=yellow)
 
-## 🇧🇷
+##
+### 🇧🇷
 ### 🚀 **Bem-vindo!**
 
 Meu nome é Marcos Gonçalves, tenho 24 anos e este é meu perfil GitHub! Atuando como **analista de TI/Dados**, tendo amplo conhecimento de ferramenta de analise de dados e de diversas linguagens, como:
@@ -47,14 +48,16 @@ Como analista de TI auxilio em ambito profissional gestão de usuários, no sist
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizagem.
 
-## **Contato**
+### **Contato**
 
 <div>
 <a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
-## 🇺🇸
+##
+
+### 🇺🇸
 ### 🚀 **Welcome!**
 
 My name is Marcos Gonçalves, I am 24 years old, and this is my GitHub profile! I work as an **IT/Data Analyst**, with extensive knowledge of data analysis tools and various programming languages, such as:
@@ -83,13 +86,13 @@ As an IT analyst, I assist in a professional setting with user management, inter
 
 I am always open to new opportunities, collaborations, and learning.
 
-## **Contact**
+### **Contact**
 
 <div>
 <a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div> 
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=zArkade&layout=compact)
-![Snake animation](https://github.com/zArkade/zArkade/blob/output/github-contribution-grid-snake.svg)
+##
 
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=zArkade&layout=compact)
