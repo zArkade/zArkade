@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Hi%2C+My+name+is+Marcos+Goncalves!;Welcome+my+GitHub+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Welcome+my+GitHub+profile!;My+name+is+Marcos+Gon%C3%A7alves!;I+work+as+an+IT%2FData+Analyst;and+Web+dev!" alt="Typing SVG" /></a>
 
 <br clear="both">
 
