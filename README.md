@@ -1,8 +1,24 @@
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<!-- ![Prisma](https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightLogo.png)![TypeScrit](https://en.vetores.org/wp-content/uploads/typescript.png)![yarn](https://www.bing.com/images/search?view=detailV2&ccid=BmT5u%2be1&id=2C69051D20F33E6E36B24B25709C69253CA42C0E&thid=OIP.BmT5u-e1Q3sPL7OWY24isgHaHa&mediaurl=https%3a%2f%2fcdn.icon-icons.com%2ficons2%2f2699%2fPNG%2f512%2fyarnpkg_logo_icon_170667.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0664f9bbe7b5437b0f2fb396636e22b2%3frik%3dDiykPCVpnHAlSw%26pid%3dImgRaw%26r%3d0&exph=512&expw=512&q=yarnpkg&simid=608051225402309103&FORM=IRPRST&ck=E7B56B3A396685E59B4BEB285E209990&selectedIndex=0&itb=1)![R](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png)![DAX](https://static.wixstatic.com/media/34d8ba_0fdb91f3fbb1483cb6a88c0e6d190744~mv2.jpg/v1/fit/w_940%2Ch_674%2Cal_c%2Cq_80/file.jpg) -->
+<div style="display: inline-block"><br>
+  <a href="https://github.com/zArkade" />
+  <img src="https://img.shields.io/badge/ubunto-log">
+  <img src="https://img.shields.io/badge/windowns-log">
+  <img src="https://img.shields.io/badge/postman-log">
+  <img src="https://img.shields.io/badge/sql-log">
+  <img src="https://img.shields.io/badge/mysql-log">
+  <img src="https://img.shields.io/badge/postgrelsql-logo">
+  <img src="https://img.shields.io/badge/java-logo">
+  <img src="https://img.shields.io/badge/python-logo">
+  <img src="https://img.shields.io/badge/javascript-log">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
 ![codewars](https://www.codewars.com/users/zArkade/badges/small)![leetcode](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FzArkade&logo=leetcode&logoColor=yellow)
 
-### 🇧🇷
+## 🇧🇷
 ### 🚀 **Bem-vindo!**
 
 Meu nome é Marcos Gonçalves, tenho 24 anos e este é meu perfil GitHub! Atuando como **analista de TI/Dados**, tendo amplo conhecimento de ferramenta de analise de dados e de diversas linguagens, como:
@@ -31,7 +47,14 @@ Como analista de TI auxilio em ambito profissional gestão de usuários, no sist
 
 Estou sempre aberto a novas oportunidades, colaborações e aprendizagem.
 
-### 🇺🇸
+## **Contato**
+
+<div>
+<a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
+## 🇺🇸
 ### 🚀 **Welcome!**
 
 My name is Marcos Gonçalves, I am 24 years old, and this is my GitHub profile! I work as an **IT/Data Analyst**, with extensive knowledge of data analysis tools and various programming languages, such as:
@@ -60,5 +83,13 @@ As an IT analyst, I assist in a professional setting with user management, inter
 
 I am always open to new opportunities, collaborations, and learning.
 
+## **Contact**
+
+<div>
+<a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div> 
+
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=zArkade&layout=compact)
+![Snake animation](https://github.com/zArkade/zArkade/blob/output/github-contribution-grid-snake.svg)
 
