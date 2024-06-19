@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Hi%2C+My+name+is+Marcos+Goncalves!;Welcome+my+GitHub+profile!" alt="Typing SVG" /></a>
+
 <br clear="both">
 
 <div align="center">
@@ -53,9 +55,8 @@
 ---
 
 ### 🇧🇷
-### 🚀 **Bem-vindo!**
 
-Meu nome é Marcos Gonçalves, tenho 24 anos e este é meu perfil GitHub! Atuando como **analista de TI/Dados**, tendo amplo conhecimento de ferramenta de analise de dados e de diversas linguagens, como:
+Atuando como **analista de TI/Dados**, tendo amplo conhecimento de ferramenta de analise de dados e de diversas linguagens, como:
 
 - **Javascript/Node**;
 - **HTML/CSS**;
@@ -84,9 +85,8 @@ Estou sempre aberto a novas oportunidades, colaborações e aprendizagem.
 ---
 
 ### 🇺🇸
-### 🚀 **Welcome!**
 
-My name is Marcos Gonçalves, I am 24 years old, and this is my GitHub profile! I work as an **IT/Data Analyst**, with extensive knowledge of data analysis tools and various programming languages, such as:
+I work as an **IT/Data Analyst**, with extensive knowledge of data analysis tools and various programming languages, such as:
 
 - **Javascript/Node**;
 - **HTML/CSS**;
