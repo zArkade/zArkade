@@ -1,10 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Welcome+my+GitHub+profile!;My+name+is+Marcos+Gon%C3%A7alves!;I+work+as+an+IT%2FData+Analyst;and+Web+dev!" alt="Typing SVG" /></a>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zArkade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zArkade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div style="text-align: center;" align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zArkade&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=282a36&title_color=F7317D&text_color=f8f8f2&border_radius=3&border_color=F7317D&icon_color=F7317D&theme=jolly&card_width=400" alt="GitHub stats">
 </div>
   
 <picture align="center">
