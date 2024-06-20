@@ -16,6 +16,16 @@
   <img align="right" alt="" height="180px" src="./src/Solo_leveling.gif">
 </div>
 
+### 📄 Curriculum
+
+<h3>
+  <a href="./src/Marcos Gonçalves - Pt-Br.pdf"> Portuguese </a>
+</h3>
+<h3>
+ <a href="./src/Marcos Gonçalves - En.pdf"> English </a>
+</h3>
+
+
 ### ✉️ **Contact**
 
 <div align="left">
