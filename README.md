@@ -34,7 +34,7 @@
 <a href="mailto:zarkade.contato@gmail.com" target=_blank"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zarkade.contato@gmail.com" target="_blank"></a>
 </div> 
 
-### 🌟 **Some tool and tech i use**
+### 🌟 **Some tools and tech i use**
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
