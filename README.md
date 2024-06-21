@@ -65,7 +65,7 @@
 
 ---
 
-### 🇧🇷
+<!-- ### 🇧🇷
 
 Atuando como **analista de TI/Dados**, tendo amplo conhecimento de ferramenta de analise de dados e de diversas linguagens, como:
 
@@ -122,4 +122,4 @@ As an IT analyst, I assist in a professional setting with user management, inter
 - **Computer Engineering** - São Judas Tadeu University - Completed in Jul/2024.
 
 I am always open to new opportunities, collaborations, and learning.
-
+ -->
