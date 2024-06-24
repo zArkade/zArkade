@@ -19,25 +19,7 @@
   <img align="right" alt="" height="300px" src="./src/Solo_leveling.gif">
 </div>
 
-### 📄 Curriculum
-
-<h3>
-  <a href="./src/Marcos Gonçalves - Pt-Br.svg"> Portuguese </a>
-</h3>
-<h3>
- <a href="./src/Marcos Gonçalves - En.svg"> English </a>
-</h3>
-
-
-### ✉️ **Contact**
-
-<div align="left">
-<a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:zarkade.contato@gmail.com" target=_blank"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zarkade.contato@gmail.com" target="_blank"></a>
-</div> 
-
-### 🌟 **Some tools and tech i use**
+### 🛠️ **Some tools and tech i use** 👨🏾‍💻
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="25" alt="ubuntu logo"  />
@@ -66,6 +48,24 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
 </div>
+
+### ✉️ **Contact**
+
+<div align="left">
+<a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:zarkade.contato@gmail.com" target=_blank"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zarkade.contato@gmail.com" target="_blank"></a>
+</div> 
+
+### 📄 Curriculum
+
+<h3>
+  <a href="./src/Marcos Gonçalves - Pt-Br.svg"> Portuguese </a>
+</h3>
+<h3>
+ <a href="./src/Marcos Gonçalves - En.svg"> English </a>
+</h3>
+
 
 ---
 
