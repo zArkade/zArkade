@@ -57,8 +57,9 @@
 <div align="left">
 <a href="https://www.instagram.com/marcosarkadevlr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosribeirogon%C3%A7alves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:zarkade.contato@gmail.com" target=_blank"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zarkade.contato@gmail.com" target="_blank"></a>
-</div> 
+<a href="mailto:zarkade.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zarkade.contato@gmail.com" target="_blank"></a>
+<a href="mailto:contato.marcosribeiro@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:contato.marcosribeiro@outlook.com" target="_blank"></a>
+</div>
 
 ### 📄 Curriculum
 
