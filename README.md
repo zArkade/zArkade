@@ -64,10 +64,10 @@
 ### 📄 Curriculum
 
 <h3>
-  <a href="./src/Marcos Gonçalves - Pt-Br.svg"> Portuguese </a>
+  <a href="./src/Marcos Gonçalves - Pt-Br.svg" target="_blank"> Portuguese </a>
 </h3>
 <h3>
- <a href="./src/Marcos Gonçalves - En.svg"> English </a>
+ <a href="./src/Marcos Gonçalves - En.svg" target="_blank"> English </a>
 </h3>
 
 
