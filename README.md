@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Welcome+my+GitHub+profile!;My+name+is+Marcos+Gon%C3%A7alves!;I+work+as+an+IT%2FData+Analyst;and+Web+dev!" alt="Typing SVG" /></a>
 </div>
 
-<div style="text-align: center;" align="center">
+<!-- <div style="text-align: center;" align="center">
   <a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zArkade&hide_title=true&show_icons=true&include_all_commits=false&count_private=false&line_height=25&hide=issues&bg_color=282a36&title_color=F7317D&text_color=f8f8f2&border_radius=3&border_color=F7317D&icon_color=F7317D&theme=jolly&card_width=400" alt="GitHub stats">
   </a>
@@ -15,7 +15,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zArkade/zArkade/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zArkade/zArkade/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zArkade/zArkade/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 ---
 
