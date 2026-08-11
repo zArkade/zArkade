@@ -1,5 +1,5 @@
 <div style = "text-align: center;" align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Welcome+my+GitHub+profile!;My+name+is+Marcos+Gon%C3%A7alves!;I+work+as+an+IT%2FData+Analyst;and+Web+dev!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7317D&center=true&random=false&width=435&lines=Welcome+my+GitHub+profile!;My+name+is+Marcos+Gon%C3%A7alves!;I+work+as+an+IT+and+System+Dev!" alt="Typing SVG" /></a>
 </div>
 
 <!-- <div style="text-align: center;" align="center">
@@ -42,13 +42,13 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo" title="Python"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="Php logo" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" title="JavaScript"/>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo" title="Node.js"/>
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo" title="JavaScript"/>
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo" title="TypeSricpt"/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="25" alt="Php logo" title="PHP"/>
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" title="HTML5"/>
   <img width="8" />
